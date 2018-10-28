@@ -17,7 +17,7 @@ Hawaii climate is being analyzed in this project. I addition, climate API is gen
 
 ## Climate Analysis
 * Precipitation Analysis
-![Precipitation](Images/precipitation.jpg)
+![Precipitation](Images/precipitation.png)
 
 * Station Analysis
 ![Stations](Images/tobs.png)
